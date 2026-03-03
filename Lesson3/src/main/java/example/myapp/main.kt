@@ -48,6 +48,4 @@ fun main() {
 
     println("\n\n ================ Make Fish 01 ===============")
     makeFish01()
-
-
 }
