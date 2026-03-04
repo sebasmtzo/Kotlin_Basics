@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/1er_Examen" />
             <option value="$PROJECT_DIR$/Actividad_Lesson1" />
             <option value="$PROJECT_DIR$/Actividad_Lesson2" />
             <option value="$PROJECT_DIR$/Actividad_Lesson3" />
